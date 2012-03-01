@@ -1,0 +1,18 @@
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "vim/bundle/vim-markdown"]
+	path = vim/bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "vim/bundle/gist-vim"]
+	path = vim/bundle/gist-vim
+	url = https://github.com/mattn/gist-vim.git
+[submodule "vim/bundle/vimroom"]
+	path = vim/bundle/vimroom
+	url = https://github.com/mikewest/vimroom.git
+[submodule "vim/bundle/solarized"]
+	path = vim/bundle/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim/bundle/miniscm"]
+	path = vim/bundle/miniscm
+	url = https://github.com/vim-scripts/ScmFrontEnd-former-name--MinSCM.git
